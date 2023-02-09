@@ -1,0 +1,1 @@
+export const cartItems = [] //başlangıçta sepetteki elemanlar
