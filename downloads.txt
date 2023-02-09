@@ -1,0 +1,68 @@
+-ilk olarak bilgisayarýna node kumayý unutma!!!
+
+-vscode cmd terminalinde;
+
+*npm install
+*npm run dev (teminalde bu komut hata verebilir ama tarayýcýda gidip localhost:3001 açtýðýnda çalýþacak)
+
+-usefull extensions for vscode install these;
+
+*auto import
+*auto rename tag
+*bracket pair color
+*material icon theme 
+*path intellisense
+*ES7 React/Rerdux/GraphQL/....
+
+-react projesi oluþturmak için terminalde;
+
+*npx create-react-app <projeAdý>
+
+-react uygulamasýný test ortamýnda çalýþtýrmak için;
+
+*npm start 
+
+-daha sonra bunu kurarýz;
+-apilere istekte bulunmamazý saðlayan paketin ismi (axios);
+
+*npm install axios
+
+-router iþlemleri için bu paketi indiriyoruz;
+
+*npm install react-router-dom
+
+-redux yüklemek için;
+
+*npm install react-redux
+*npm install redux
+*npm install redux-devtools-extension
+
+-ekranda uyarý mesajý için;
+
+*npm install react-toastify
+
+-formik.org (form iþlmeleri) kullanmak için indiriyoruz;
+
+*npm install formik
+
+-formlarda inputlara kýsýtlamalar eklemek istersek;
+
+*npm install yup
+
+-redux thunk indirmek için;
+
+*npm install redux-thunk
+
+-react Slect için;
+
+*npm install --save react-select
+*npm install --save-dev @types/react-select
+
+-typeScprit için;
+
+*npm install typescript --save-dev
+*npm install -g typescript
+
+-style for react page;
+
+*npm install styled-components
